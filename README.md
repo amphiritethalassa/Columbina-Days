@@ -1,2 +1,5 @@
 # Columbina-Days
-Game is still in development.
+This game is already released early, and there will be new updates soon.
+
+# How to download
+Go to

@@ -1,29 +1,30 @@
-# Columbina-Days
-This game is already released for the first version, and there will be new updates soon.
+Columbina-Days
 
-# How to download on Windows version
-Download our game here: [Releases](https://github.com/amphiritethalassa/Columbina-Days/releases)
+The first version of the game has officially been released. More updates and new content are planned for the future!
 
-Our current release is for Windows version, we might add more versions, but it isn't guranteed.
+How to download on Windows
 
-# How to download on Android using MASL
-Download our game here: [Releases](https://github.com/amphiritethalassa/Columbina-Days/releases)
+Download the game from our "Releases" (https://github.com/amphiritethalassa/Columbina-Days/releases) page.
 
-Then, download MASL (Monika After Story Launcher).
+Currently, only the Windows version is available. Additional platforms may be supported in the future, but this is not guaranteed.
 
-On MASL, you should see the virtual desktop login screen, select MINE.
+How to download on Android using MASL
 
-On MINE, you should see a computer screen, select the option "MINE".
+1. Download the game from our "Releases" (https://github.com/amphiritethalassa/Columbina-Days/releases) page.
+2. Download MASL (Monika After Story Launcher).
+3. Open MASL. On the virtual desktop login screen, select MINE.
+4. On the computer screen, select MINE again.
+5. Select Add Game.
+6. Choose Ren'Py Game.
+7. Select the downloaded game ZIP file.
 
-You should see the option "Add game", select that, then Ren'Py game, and select our ZIP file.
+How to download on Android using Ren'Py Pocket
 
-# How to download on Androod using Ren'Py Pocket
-Download our game here: [Releases](https://github.com/amphiritethalassa/Columbina-Days/releases)
+1. Download the game from our "Releases" (https://github.com/amphiritethalassa/Columbina-Days/releases) page.
+2. Download Ren'Py Pocket.
+3. Open Ren'Py Pocket and tap the + button.
+4. Select the downloaded game ZIP file.
 
-Then, download Ren'Py Pocket.
+Issues or questions?
 
-On Ren'Py Pocket, you should see a button with +, click that.
-
-Then, select our ZIP file.
-
-Issues or questions? Go here: [Issues](https://github.com/amphiritethalassa/Columbina-Days/issues)
+If you encounter any problems or have questions, visit our "Issues" (https://github.com/amphiritethalassa/Columbina-Days/issues) page.

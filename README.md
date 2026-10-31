@@ -2,7 +2,7 @@
 
 The first version of the game has officially been released. More updates and new content are planned for the future!
 
-How to download on Windows
+# How to download on Windows
 
 Download the game from our [Releases](https://github.com/amphiritethalassa/Columbina-Days/releases) page.
 
